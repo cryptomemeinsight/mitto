@@ -1,0 +1,43 @@
+{
+  "useConfigData": false,
+  "useConfigStats": true,
+  "useConfigPosts": true,
+  "username": "mittoonsol",
+  "credentials": {
+    "apiKey": "Lr2dxNfzfF5Fa7fOivwY2C99c",
+    "apiSecret": "dMfMnWJj4utHtnwrn6Bbq0cYOL0xhHyul6jta7925bhYEtAoPh",
+    "accessToken": "1962464780113125376-jVwLGZgsJGVRuwf3cT3PNF91PjNRCq",
+    "accessTokenSecret": "xI0UDHDfxwmnwCHxzrjlEc2bUQTQAZOnshsQBUssXZZ0II"
+  },
+  "stats": {
+    "followers": 150000,
+    "posts": 2500,
+    "following": 750
+  },
+  "posts": [
+    {
+      "id": "real_post_1",
+      "text": "Replace this with your actual recent post text #1",
+      "created_at": "2025-11-02T12:00:00.000Z",
+      "favorite_count": 25,
+      "retweet_count": 8,
+      "url": "https://x.com/mittoonsol/status/your_tweet_id_1"
+    },
+    {
+      "id": "real_post_2", 
+      "text": "Replace this with your actual recent post text #2",
+      "created_at": "2025-11-02T10:30:00.000Z",
+      "favorite_count": 42,
+      "retweet_count": 15,
+      "url": "https://x.com/mittoonsol/status/your_tweet_id_2"
+    },
+    {
+      "id": "real_post_3",
+      "text": "Replace this with your actual recent post text #3", 
+      "created_at": "2025-11-02T08:15:00.000Z",
+      "favorite_count": 18,
+      "retweet_count": 6,
+      "url": "https://x.com/mittoonsol/status/your_tweet_id_3"
+    }
+  ]
+}
